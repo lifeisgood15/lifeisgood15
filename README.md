@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shaily (@lifeisgood15)
 - 👀 I’m interested in life, coding, music
-- 🌱 I’m currently learning microservices
+- 🌱 I’m currently learning React
 
 
 <!---
